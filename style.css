@@ -58,7 +58,8 @@ img {
 }
 
 .msg-container {
-    margin-top: 5vmax;
+    margin-top: 5rem;
+    font-size: 5vmax
 }
 
 #msg {
