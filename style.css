@@ -59,13 +59,13 @@ img {
 
 .msg-container {
     margin-top: 5rem;
-    font-size: 3vmax
+    
 }
 
 #msg {
     background-color: #402E7A;
     color: white;
-    font-size: 2rem;
+    font-size: 2vmax;
     display: inline;
     padding: 1rem;
     border-radius: 3rem;
